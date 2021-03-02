@@ -1,0 +1,31 @@
+Metadata-Version: 2.0
+Name: mecab-python-windows
+Version: 0.996.3
+Summary: Python wrapper for CaboCha: Japanese Dependency Structure Analyzer
+Home-page: https://github.com/ikegami-yukino/mecab/tree/master/mecab/python
+Author: Yukino Ikegami
+Author-email: yknikgm@gmail.com
+License: BSD, GPL or LGPL
+Platform: Windows
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Natural Language :: Japanese
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Text Processing
+
+This is a python wrapper for CaboCha. It does not sopport Windows Python 64bit version.
+
+    License
+    ---------
+    CaboCha is copyrighted free software by Taku Kudo <taku@chasen.org>
+is released under any of the the LGPL (see the file LGPL) or the
+BSD License (see the file BSD).
+
+
